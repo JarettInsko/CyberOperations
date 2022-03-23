@@ -1,1 +1,1 @@
-alert('did not think I would be using judah again');
+alert('Straight from git\'s hub');
